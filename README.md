@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-MAKING A TEST CHANGE
+MAKING A TEST CHANGE 2
 
 Repo for the `GitHub Actions Fundamentals` training.
 
