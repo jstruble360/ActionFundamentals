@@ -1,1 +1,1 @@
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDY1NzIwZTEtMGRİZİOOMTU4LWEWZWItZTMONmJmZWMyZWZh% 40thread.v2/0?context=%7B%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%220id%22%3a%228b4a8ef= af1f-4fb9-be90-2caa2e2892b2%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDY1NzIwZTEtMGRiZi00MTU4LWEwZWItZTM0NmJmZWMyZWZh%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%228b4a8eff-af1f-4fb9-be90-2caa2e2892b2%22%7d
